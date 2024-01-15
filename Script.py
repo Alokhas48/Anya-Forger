@@ -200,7 +200,7 @@ Message <b>: {}</b>"""
 
 ❤️‍🔥 </i>Join</i> [MOVIE CHANNEL](https://t.me/+Qf0IWyYhNi1mYjll)  
 
-🖥 <i>Requests</i> - ||@Linux_Filter_Bot|| """
+🖥 <i>Requests</i> - ||@Mila_Movies_Bot|| """
 
     IMDB_TEMPLATE_TXT = """
 🏷 𝖳𝗂𝗍𝗅𝖾: <a href={url}>{title}</a> 
