@@ -11,4 +11,4 @@ pytz
 aiohttp
 openai
 psutil==5.9.4
-git+https://github.com/MKN-BOTZ/pyrogram
+git+https://github.com/TGExplore/pyrogram.git
